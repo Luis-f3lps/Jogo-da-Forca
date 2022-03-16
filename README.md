@@ -3,7 +3,7 @@ Trabalho de Web
 
 Como "rodar" o jogo
 
- Ao carregar a pagina, clicque em "iniciar jogo" ai vai surgir o jogo, se quizer jogar denovo ou recarrecar a partida clique no dadinho.
+ Ao carregar a pagina, clique em "iniciar jogo" ai vai surgir o jogo, se quizer jogar denovo ou recarrecar a partida clique no dadinho.
 
 Regras do jogo e como jogar
       
