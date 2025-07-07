@@ -144,6 +144,7 @@ document.getElementById("btnReiniciar").addEventListener("click", function () {
 
 document.getElementById("btnStart").addEventListener("click", function () {
     document.getElementById("teclado").style.visibility = "visible";
+    document.getElementById("btnStart").style.visibility = "hidden";
     criarPalavraSecreta();
     montarPalavraNaTela();
     carregaImagemForca();
