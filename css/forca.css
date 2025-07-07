@@ -43,34 +43,6 @@ body{
   transform: translateY(1px);
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
-#btnReiniciar {
-  background-color: #e94e77;      /* Rosa forte */
-  color: white;
-  font-size: 1.8rem;              /* Ícone maior */
-  padding: 10px 16px;
-  border: none;
-  border-radius: 50%;             /* Botão redondo */
-  cursor: pointer;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
-  line-height: 1;
-}
-
-#btnReiniciar:hover {
-  background-color: #c43e64;      /* Rosa mais escuro no hover */
-  box-shadow: 0 8px 16px rgba(0,0,0,0.25);
-  transform: translateY(-3px);
-}
-
-#btnReiniciar:active {
-  transform: translateY(1px);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-}
 
 #imagem{
     width: 234px;
